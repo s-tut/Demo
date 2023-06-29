@@ -26,7 +26,7 @@ struct ContentView: View {
                     Text("Animal")
                 }
                 
-                Text("A giant cavy rodent native to South America and the largest living rodent and a member of the genus Hydrochoerus.")
+                Text("A giant cavy rodent native to South America and the largest living rodent and a member of the genus Hydrochoerus!")
             }
             .padding()
             .background(Rectangle().foregroundColor(.white))
